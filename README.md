@@ -1,8 +1,8 @@
 <h1 align="center">ya ya halo!</h1>
 
 <p align="center">
-  Seorang Web Developer yang passionate membangun pengalaman web yang indah dan fungsional.
-  Saat ini sedang mendalami HTML, CSS, JavaScript dan React.js
+  Random chill man passionate to build web ecxperience cozy and functional.
+  HTML, CSS, JavaScript & React.js
 </p>
 
 ---
