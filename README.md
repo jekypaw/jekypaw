@@ -1,4 +1,4 @@
-<h1 align="center">Halo, saya [Nama Kamu] 👋</h1>
+<h1 align="center">ya ya halo!</h1>
 
 <p align="center">
   Seorang Web Developer yang passionate membangun pengalaman web yang indah dan fungsional.
