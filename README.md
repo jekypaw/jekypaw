@@ -21,7 +21,7 @@
 
 | Project | Deskripsi | Tech | Link |
 |---|---|---|---|
-| Website Portfolio | Portfolio pribadi dengan dark mode & toggle tema | HTML, CSS, JS | [Live Demo](https://website-porto-c58k.vercel.app/) |
+| Website Portfolio | check this out! | HTML, CSS, JS | [Live Demo](https://website-porto-c58k.vercel.app/) |
 
 ---
 
