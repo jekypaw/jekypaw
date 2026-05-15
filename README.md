@@ -1,4 +1,4 @@
-<h1 align="center">ya ya halo!</h1>
+<h1 align="center">ya ya otw!</h1>
 
 <p align="center">
   Random chill man passionate to build web ecxperience cozy and functional.
