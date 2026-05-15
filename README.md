@@ -17,13 +17,7 @@
 
 ---
 
-### 🚀 my project
 
-| Project | Deskripsi | Tech | Link |
-|---|---|---|---|
-| Website Portfolio | check this out! | HTML, CSS, JS | [Live Demo](https://website-porto-y567.vercel.app/#) |
-
----
 
 ### 📊 GitHub Stats
 
