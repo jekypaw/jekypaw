@@ -34,5 +34,5 @@
 ---
 
 <p align="center">
-  <i>"consistency, one step better than yesterday."</i>
+  <i>"being kindess.."</i>
 </p>
